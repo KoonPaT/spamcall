@@ -1,1 +1,2 @@
 # spamcall
+Usage : ./call
